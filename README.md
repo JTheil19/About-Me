@@ -19,8 +19,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ton_nom&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton_nom&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JTheil19&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTheil19&layout=compact&theme=dark)
 
 ---
 
